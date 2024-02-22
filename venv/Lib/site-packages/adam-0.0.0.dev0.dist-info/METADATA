@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: adam
+Version: 0.0.0.dev0
+Summary: Adam programming language implemented in python
+Home-page: https://github.com/adam-language/adam
+Author: 3demax
+Author-email: contact@adam-lang.org
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/adam-language/adam/issues
+Project-URL: Say Thanks!, https://saythanks.io/to/3demax
+Keywords: timeql language interpreter development
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Interpreters
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.5, <4
+Description-Content-Type: text/markdown
+
+# TimeQL
+
+TimeQL is an experimental declarative programming language.
+
