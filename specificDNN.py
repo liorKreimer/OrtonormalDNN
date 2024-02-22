@@ -196,7 +196,7 @@ for _ in range(num_runs):
         # model.add(DegenerateBatchNormalization())
         # model.add(BoundedBatchNormalization())
         # model.add(SingularValueBounding())  # Apply SVB regularization after each layer
-        model.add(Dropout(0.3))
+        model.add(Dropout(0.5))
     # add output layer
     model.add(layers.Dense(1, activation=tanH))
 
